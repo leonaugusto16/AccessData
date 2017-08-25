@@ -3,3 +3,4 @@
 *.tar.gz
 *.swp
 *.tgz
+script/*
