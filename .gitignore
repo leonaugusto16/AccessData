@@ -3,4 +3,4 @@
 *.tar.gz
 *.swp
 *.tgz
-docker/spark-submit/SCRIPT/*
+*.log
